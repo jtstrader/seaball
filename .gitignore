@@ -1,0 +1,10 @@
+# Project files
+.vscode
+
+# Build items
+normal.cpp
+test.cpp
+
+# Documentation
+html
+latex
